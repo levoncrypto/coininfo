@@ -30,7 +30,7 @@
     "tape": "^4.8.0"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/coininfo",
+    "url": "https://github.com/levoncrypto/coininfo.git",
     "type": "git"
   },
   "main": "./lib/coininfo.js",
